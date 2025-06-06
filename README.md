@@ -1,5 +1,26 @@
-# Vue 3 + TypeScript + Vite
+# Website bán quần áo
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Deploy: https://my-vue-store.vercel.app
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+![alt text](image.png)
+
+## Mô tả
+Project làm quen với vue
+
+## Công nghệ sử dụng
+- Front-End: VueJS, Tailwind CSS, Ant Design Vue
+- Back-End: NodeJS(Express)
+- Database: NoSQL(MongoDB)
+
+## Các chức năng chính
+- CRUD người dùng
+- Quản lý giỏ hàng
+- Quản lý đơn hàng
+- Giao diện responsive
+
+## Tài khoản nhân viên
+- Email: admin@gmail.com
+- Password: admin
+
+## Khởi chạy dự án
+npm run dev
