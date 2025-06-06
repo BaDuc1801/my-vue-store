@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+* {
+    box-sizing: border-box;
+}
+
+:where(.css-dev-only-do-not-override-1p3hq3p).ant-tabs-large >.ant-tabs-nav .ant-tabs-tab {
+    padding: 16px;
+    font-size: 18px;
+}
+
+.ant-pagination-options {
+    display: none !important;
+}
+
+:where(.css-dev-only-do-not-override-1p3hq3p).ant-carousel .slick-dots li button{
+    background-color: black !important;
+}
